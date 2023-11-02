@@ -1,0 +1,280 @@
+header{
+    background-color: rgb(255, 133, 225);
+    width: 100%;
+    height: 120px;
+    font-size: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(122, 0, 92);
+    background: radial-gradient(circle at top, rgb(255, 129, 224), rgb(255, 0, 191));
+}
+
+header:hover{
+    color: rgb(196, 0, 147);
+    font-size: 111px;
+    height: 130px;
+}
+
+.left_left{
+    float: left;
+    width: 100%;
+    height: 100%;
+    font-weight: 1000;
+    background: linear-gradient(to bottom, rgb(255, 129, 129), rgb(255, 0, 0));
+}
+
+.left_left ol{
+    font-size: 25px;
+    background-color: rgb(255, 155, 155);
+    line-height: 2em;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 1em;
+    width: 40%;
+    height: 250px;
+    list-style-position: inside;
+    list-style-type: "\2B55";
+}
+
+.left_left button{
+    color: rgb(112, 0, 0);
+    font-size: 46px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    background-color: rgb(255, 193, 193);
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.left_left ol:hover{
+    font-size: 26px;
+    background-color: rgb(255, 193, 193);
+    width: 42%;
+    height: 260px;
+    color: rgb(180, 0, 0);
+}
+
+.left_left button:hover{
+    font-size: 48px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(175, 0, 0);
+    border-color: rgb(0, 0, 0);
+}
+
+.left_left button:active{
+    font-size: 48px;
+    color: rgb(255, 156, 156);
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(100, 0, 0);
+}
+
+.left_center{
+    float: left;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to bottom, rgb(255, 242, 130), rgb(255, 230, 0));
+}
+
+.left_center ol{
+    font-size: 25px;
+    background-color: rgb(255, 240, 156);
+    line-height: 2em;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 1em;
+    width: 40%;
+    height: 300px;
+    list-style-position: inside;
+    list-style-type: "\1F506";
+}
+
+.left_center button{
+    color: rgb(122, 114, 0);
+    font-size: 46px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 20px;
+    background-color: rgb(255, 240, 156);
+    border-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.left_center ol:hover{
+    font-size: 26px;
+    background-color: rgb(255, 246, 191);
+    width: 42%;
+    height: 310px;
+    color: rgb(182, 170, 0);
+}
+
+.left_center button:hover{
+    font-size: 48px;
+    color: rgb(255, 238, 0);
+    background-color: rgb(150, 130, 0);
+    border-color: rgb(0, 0, 0);
+}
+
+.left_center button:active{
+    font-size: 48px;
+    color: rgb(255, 247, 129);
+    background-color: rgb(255, 221, 0);
+    border-color: rgb(82, 71, 0);
+}
+
+.right_center{
+    float: left;
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+    color: rgb(24, 0, 161);
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to bottom, rgb(137, 129, 255), rgb(17, 0, 255));
+}
+
+.right_center ul{
+    font-size: 25px;
+    background-color: rgb(165, 155, 255);
+    line-height: 2em;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 1em;
+    width: 40%;
+    height: 150px;
+    list-style-position: inside;
+    list-style-type: "\1F454";
+}
+
+.right_center ul:hover{
+    font-size: 26px;
+    background-color: rgb(199, 192, 255);
+    color: rgb(33, 0, 218);
+    height: 160px;
+    width: 39%;
+}
+
+.right_center h2:hover{
+    font-size: 48px;
+    color: rgb(33, 0, 218);
+}
+
+.right_right{
+    float: left;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(168, 255, 133);
+    font-size: 30px;
+    color: rgb(10, 124, 0);
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: linear-gradient(to bottom, rgb(165, 255, 130), rgb(72, 255, 0));
+}
+
+.right_right ul{
+    font-size: 25px;
+    background-color: rgb(172, 255, 156);
+    line-height: 2em;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-radius: 1em;
+    width: 40%;
+    height: 200px;
+    list-style-position: inside;
+    list-style-type: "\1F957";
+}
+
+.right_right ul:hover{
+    font-size: 26px;
+    background-color: rgb(202, 255, 191);
+    color: rgb(15, 180, 0);
+    height: 210px;
+    width: 42%;
+}
+
+.right_right h2:hover{
+    font-size: 48px;
+    color: rgb(15, 180, 0);
+}
+
+.right{
+    width: 50%;
+    height: 50px;
+    float: right;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background: radial-gradient(circle, rgb(255, 190, 130), rgb(255, 123, 0));
+}
+
+.right a{
+    color: rgb(156, 83, 0);
+    text-decoration: none;
+}
+
+.right a:hover{
+    font-size: 32px;
+    color: rgb(182, 97, 0);
+    text-decoration: none;
+}
+
+.left{
+    width: 50%;
+    height: 50px;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background: radial-gradient(circle, rgb(194, 129, 255), rgb(132, 0, 255));
+}
+
+.left a{
+    color: rgb(77, 0, 139);
+    text-decoration: none;
+}
+
+.left a:hover{
+    font-size: 32px;
+    color: rgb(108, 0, 180);
+    text-decoration: none;
+}
+
+form{
+    width: 100%;
+    float: right;
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+
+input{
+    padding: 10px 20px;
+    border: 2px solid rgb(58, 7, 7);
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.search {
+    width: 100%;
+}
+
+.button_search{
+    width: 25%;
+    color: rgb(161, 44, 44);
+    font-size: 20px;
+    font-family: cursive;
+    background-color: rgb(255, 177, 177);
+    cursor: pointer;
+    font-weight: 1000;
+    border: 2px solid rgb(58, 7, 7);
+}
+
+.img_button{
+    height: 4em;
+    position: relative;
+}
